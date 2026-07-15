@@ -1,0 +1,14 @@
+{
+  "id": "session-1784120348169",
+  "startedAt": "2026-07-15T12:59:08.169Z",
+  "cwd": "/home/lucas/Área de trabalho/twenty/twenty-main",
+  "context": {},
+  "metrics": {
+    "edits": 6,
+    "commands": 0,
+    "tasks": 0,
+    "errors": 0
+  },
+  "endedAt": "2026-07-15T13:26:40.585Z",
+  "duration": 1652877
+}
